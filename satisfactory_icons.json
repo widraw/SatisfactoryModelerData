@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "item_0000",
+    "name": "Iron Ingot",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Iron_Ingot.png"
+  },
+  {
+    "id": "item_0001",
+    "name": "Leaves",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Leaves.png"
+  },
+  {
+    "id": "item_0002",
+    "name": "Iron Rod",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Iron_Rod.png"
+  },
+  {
+    "id": "item_0003",
+    "name": "Iron Plate",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Iron_Plate.png"
+  },
+  {
+    "id": "item_0004",
+    "name": "Mycelia",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Mycelia.png"
+  },
+  {
+    "id": "item_0005",
+    "name": "Wood",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Wood.png"
+  },
+  {
+    "id": "item_0006",
+    "name": "Blue Power Slug",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Blue_Power_Slug.png"
+  },
+  {
+    "id": "item_0007",
+    "name": "Hatcher Remains",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Hatcher_Remains.png"
+  },
+  {
+    "id": "item_0008",
+    "name": "Hog Remains",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Hog_Remains.png"
+  },
+  {
+    "id": "item_0009",
+    "name": "Mercer Sphere",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Mercer_Sphere.png"
+  },
+  {
+    "id": "item_0010",
+    "name": "Purple Power Slug",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Purple_Power_Slug.png"
+  },
+  {
+    "id": "item_0011",
+    "name": "Somersloop",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Somersloop.png"
+  },
+  {
+    "id": "item_0012",
+    "name": "Spitter Remains",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Spitter_Remains.png"
+  },
+  {
+    "id": "item_0013",
+    "name": "Stinger Remains",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Stinger_Remains.png"
+  },
+  {
+    "id": "item_0014",
+    "name": "Yellow Power Slug",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Yellow_Power_Slug.png"
+  },
+  {
+    "id": "item_0015",
+    "name": "Copper Ingot",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Copper_Ingot.png"
+  },
+  {
+    "id": "item_0016",
+    "name": "Wire",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Wire.png"
+  },
+  {
+    "id": "item_0017",
+    "name": "Cable",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Cable.png"
+  },
+  {
+    "id": "item_0018",
+    "name": "Blue FICSMAS Ornament",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Blue_FICSMAS_Ornament.png"
+  },
+  {
+    "id": "item_0019",
+    "name": "FICSMAS Gift",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/FICSMAS_Gift.png"
+  },
+  {
+    "id": "item_0020",
+    "name": "FICSMAS Tree Branch",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/FICSMAS_Tree_Branch.png"
+  },
+  {
+    "id": "item_0021",
+    "name": "Red FICSMAS Ornament",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Red_FICSMAS_Ornament.png"
+  },
+  {
+    "id": "item_0022",
+    "name": "Screw",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Screw.png"
+  },
+  {
+    "id": "item_0023",
+    "name": "FICSMAS Bow",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/FICSMAS_Bow.png"
+  },
+  {
+    "id": "item_0024",
+    "name": "FICSMAS Actual Snow",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/FICSMAS_Actual_Snow.png"
+  },
+  {
+    "id": "item_0025",
+    "name": "Candy Cane",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Candy_Cane.png"
+  },
+  {
+    "id": "item_0026",
+    "name": "Iron Rebar",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Iron_Rebar.png"
+  },
+  {
+    "id": "item_0027",
+    "name": "Biomass",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Biomass.png"
+  },
+  {
+    "id": "item_0028",
+    "name": "Concrete",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Concrete.png"
+  },
+  {
+    "id": "item_0029",
+    "name": "Snowball",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Snowball.png"
+  },
+  {
+    "id": "item_0030",
+    "name": "Reinforced Iron Plate",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Reinforced_Iron_Plate.png"
+  },
+  {
+    "id": "item_0031",
+    "name": "Alien DNA Capsule",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Alien_DNA_Capsule.png"
+  },
+  {
+    "id": "item_0032",
+    "name": "Alien Protein",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Alien_Protein.png"
+  },
+  {
+    "id": "item_0033",
+    "name": "Power Shard",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Power_Shard.png"
+  },
+  {
+    "id": "item_0034",
+    "name": "Iron Ore",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Iron_Ore.png"
+  },
+  {
+    "id": "item_0035",
+    "name": "Limestone",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Limestone.png"
+  },
+  {
+    "id": "item_0036",
+    "name": "Copper Ore",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Copper_Ore.png"
+  },
+  {
+    "id": "item_0037",
+    "name": "Caterium Ore",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Caterium_Ore.png"
+  },
+  {
+    "id": "item_0038",
+    "name": "Sulfur",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Sulfur.png"
+  },
+  {
+    "id": "item_0039",
+    "name": "Raw Quartz",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Raw_Quartz.png"
+  },
+  {
+    "id": "item_0040",
+    "name": "SAM",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/SAM.png"
+  },
+  {
+    "id": "item_0041",
+    "name": "Silica",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Silica.png"
+  },
+  {
+    "id": "item_0042",
+    "name": "Quartz Crystal",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Quartz_Crystal.png"
+  },
+  {
+    "id": "item_0043",
+    "name": "Copper Sheet",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Copper_Sheet.png"
+  },
+  {
+    "id": "item_0044",
+    "name": "Sparkly Fireworks",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Sparkly_Fireworks.png"
+  },
+  {
+    "id": "item_0045",
+    "name": "Fancy Fireworks",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Fancy_Fireworks.png"
+  },
+  {
+    "id": "item_0046",
+    "name": "Sweet Fireworks",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Sweet_Fireworks.png"
+  },
+  {
+    "id": "item_0047",
+    "name": "Fabric",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Fabric.png"
+  },
+  {
+    "id": "item_0048",
+    "name": "Rotor",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Rotor.png"
+  },
+  {
+    "id": "item_0049",
+    "name": "Shatter Rebar",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Shatter_Rebar.png"
+  },
+  {
+    "id": "item_0050",
+    "name": "Modular Frame",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Modular_Frame.png"
+  },
+  {
+    "id": "item_0051",
+    "name": "Smart Plating",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Smart_Plating.png"
+  },
+  {
+    "id": "item_0052",
+    "name": "Solid Biofuel",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Solid_Biofuel.png"
+  },
+  {
+    "id": "item_0053",
+    "name": "Coal",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Coal.png"
+  },
+  {
+    "id": "item_0054",
+    "name": "Black Powder",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Black_Powder.png"
+  },
+  {
+    "id": "item_0055",
+    "name": "Water",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Water.png"
+  },
+  {
+    "id": "item_0056",
+    "name": "Steel Ingot",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Steel_Ingot.png"
+  },
+  {
+    "id": "item_0057",
+    "name": "Iron FICSMAS Ornament",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Iron_FICSMAS_Ornament.png"
+  },
+  {
+    "id": "item_0058",
+    "name": "Steel Pipe",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Steel_Pipe.png"
+  },
+  {
+    "id": "item_0059",
+    "name": "Copper FICSMAS Ornament",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Copper_FICSMAS_Ornament.png"
+  },
+  {
+    "id": "item_0060",
+    "name": "Portable Miner",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Portable_Miner.png"
+  },
+  {
+    "id": "item_0061",
+    "name": "Steel Beam",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Steel_Beam.png"
+  },
+  {
+    "id": "item_0062",
+    "name": "FICSMAS Ornament Bundle",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/FICSMAS_Ornament_Bundle.png"
+  },
+  {
+    "id": "item_0063",
+    "name": "Nobelisk",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Nobelisk.png"
+  },
+  {
+    "id": "item_0064",
+    "name": "Gas Nobelisk",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Gas_Nobelisk.png"
+  },
+  {
+    "id": "item_0065",
+    "name": "FICSMAS Wreath",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/FICSMAS_Wreath.png"
+  },
+  {
+    "id": "item_0066",
+    "name": "Versatile Framework",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Versatile_Framework.png"
+  },
+  {
+    "id": "item_0067",
+    "name": "FICSMAS Wonder Star",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/FICSMAS_Wonder_Star.png"
+  },
+  {
+    "id": "item_0068",
+    "name": "Stator",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Stator.png"
+  },
+  {
+    "id": "item_0069",
+    "name": "Encased Industrial Beam",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Encased_Industrial_Beam.png"
+  },
+  {
+    "id": "item_0070",
+    "name": "Automated Wiring",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Automated_Wiring.png"
+  },
+  {
+    "id": "item_0071",
+    "name": "Motor",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Motor.png"
+  },
+  {
+    "id": "item_0072",
+    "name": "Polymer Resin",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Polymer_Resin.png"
+  },
+  {
+    "id": "item_0073",
+    "name": "Petroleum Coke",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Petroleum_Coke.png"
+  },
+  {
+    "id": "item_0074",
+    "name": "Rifle Ammo",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Rifle_Ammo.png"
+  },
+  {
+    "id": "item_0075",
+    "name": "Smokeless Powder",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Smokeless_Powder.png"
+  },
+  {
+    "id": "item_0076",
+    "name": "Rubber",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Rubber.png"
+  },
+  {
+    "id": "item_0077",
+    "name": "Plastic",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Plastic.png"
+  },
+  {
+    "id": "item_0078",
+    "name": "Circuit Board",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Circuit_Board.png"
+  },
+  {
+    "id": "item_0079",
+    "name": "Cluster Nobelisk",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Cluster_Nobelisk.png"
+  },
+  {
+    "id": "item_0080",
+    "name": "Crude Oil",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Crude_Oil.png"
+  },
+  {
+    "id": "item_0081",
+    "name": "Fuel",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Fuel.png"
+  },
+  {
+    "id": "item_0082",
+    "name": "Heavy Oil Residue",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Heavy_Oil_Residue.png"
+  },
+  {
+    "id": "item_0083",
+    "name": "Compacted Coal",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Compacted_Coal.png"
+  },
+  {
+    "id": "item_0084",
+    "name": "Empty Canister",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Empty_Canister.png"
+  },
+  {
+    "id": "item_0085",
+    "name": "Packaged Water",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packaged_Water.png"
+  },
+  {
+    "id": "item_0086",
+    "name": "Empty Fluid Tank",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Empty_Fluid_Tank.png"
+  },
+  {
+    "id": "item_0087",
+    "name": "Packaged Heavy Oil Residue",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packaged_Heavy_Oil_Residue.png"
+  },
+  {
+    "id": "item_0088",
+    "name": "Packaged Oil",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packaged_Oil.png"
+  },
+  {
+    "id": "item_0089",
+    "name": "Packaged Fuel",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packaged_Fuel.png"
+  },
+  {
+    "id": "item_0090",
+    "name": "Packaged Liquid Biofuel",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packaged_Liquid_Biofuel.png"
+  },
+  {
+    "id": "item_0091",
+    "name": "Packaged Turbofuel",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packaged_Turbofuel.png"
+  },
+  {
+    "id": "item_0092",
+    "name": "Packaged Rocket Fuel",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packaged_Rocket_Fuel.png"
+  },
+  {
+    "id": "item_0093",
+    "name": "Packaged Ionized Fuel",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packaged_Ionized_Fuel.png"
+  },
+  {
+    "id": "item_0094",
+    "name": "Ionized Fuel",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Ionized_Fuel.png"
+  },
+  {
+    "id": "item_0095",
+    "name": "Liquid Biofuel",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Liquid_Biofuel.png"
+  },
+  {
+    "id": "item_0096",
+    "name": "Rocket Fuel",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Rocket_Fuel.png"
+  },
+  {
+    "id": "item_0097",
+    "name": "Turbofuel",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Turbofuel.png"
+  },
+  {
+    "id": "item_0098",
+    "name": "Quickwire",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Quickwire.png"
+  },
+  {
+    "id": "item_0099",
+    "name": "Caterium Ingot",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Caterium_Ingot.png"
+  },
+  {
+    "id": "item_0100",
+    "name": "Stun Rebar",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Stun_Rebar.png"
+  },
+  {
+    "id": "item_0101",
+    "name": "AI Limiter",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/AI_Limiter.png"
+  },
+  {
+    "id": "item_0102",
+    "name": "Explosive Rebar",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Explosive_Rebar.png"
+  },
+  {
+    "id": "item_0103",
+    "name": "Gas Filter",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Gas_Filter.png"
+  },
+  {
+    "id": "item_0104",
+    "name": "Homing Rifle Ammo",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Homing_Rifle_Ammo.png"
+  },
+  {
+    "id": "item_0105",
+    "name": "Pulse Nobelisk",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Pulse_Nobelisk.png"
+  },
+  {
+    "id": "item_0106",
+    "name": "Crystal Oscillator",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Crystal_Oscillator.png"
+  },
+  {
+    "id": "item_0107",
+    "name": "High-Speed Connector",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/High_Speed_Connector.png"
+  },
+  {
+    "id": "item_0108",
+    "name": "Computer",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Computer.png"
+  },
+  {
+    "id": "item_0109",
+    "name": "Modular Engine",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Modular_Engine.png"
+  },
+  {
+    "id": "item_0110",
+    "name": "Heavy Modular Frame",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Heavy_Modular_Frame.png"
+  },
+  {
+    "id": "item_0111",
+    "name": "Adaptive Control Unit",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Adaptive_Control_Unit.png"
+  },
+  {
+    "id": "item_0112",
+    "name": "Bauxite",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Bauxite.png"
+  },
+  {
+    "id": "item_0113",
+    "name": "Aluminum Scrap",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Aluminum_Scrap.png"
+  },
+  {
+    "id": "item_0114",
+    "name": "Turbo Rifle Ammo",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Turbo_Rifle_Ammo.png"
+  },
+  {
+    "id": "item_0115",
+    "name": "Aluminum Ingot",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Aluminum_Ingot.png"
+  },
+  {
+    "id": "item_0116",
+    "name": "Packaged Alumina Solution",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packaged_Alumina_Solution.png"
+  },
+  {
+    "id": "item_0117",
+    "name": "Alclad Aluminum Sheet",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Alclad_Aluminum_Sheet.png"
+  },
+  {
+    "id": "item_0118",
+    "name": "Aluminum Casing",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Aluminum_Casing.png"
+  },
+  {
+    "id": "item_0119",
+    "name": "Alumina Solution",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Alumina_Solution.png"
+  },
+  {
+    "id": "item_0120",
+    "name": "Iodine-Infused Filter",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Iodine_Infused_Filter.png"
+  },
+  {
+    "id": "item_0121",
+    "name": "Packaged Sulfuric Acid",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packaged_Sulfuric_Acid.png"
+  },
+  {
+    "id": "item_0122",
+    "name": "Battery",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Battery.png"
+  },
+  {
+    "id": "item_0123",
+    "name": "Radio Control Unit",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Radio_Control_Unit.png"
+  },
+  {
+    "id": "item_0124",
+    "name": "Supercomputer",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Supercomputer.png"
+  },
+  {
+    "id": "item_0125",
+    "name": "Assembly Director System",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Assembly_Director_System.png"
+  },
+  {
+    "id": "item_0126",
+    "name": "Sulfuric Acid",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Sulfuric_Acid.png"
+  },
+  {
+    "id": "item_0127",
+    "name": "Uranium",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Uranium.png"
+  },
+  {
+    "id": "item_0128",
+    "name": "Encased Uranium Cell",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Encased_Uranium_Cell.png"
+  },
+  {
+    "id": "item_0129",
+    "name": "Electromagnetic Control Rod",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Electromagnetic_Control_Rod.png"
+  },
+  {
+    "id": "item_0130",
+    "name": "Magnetic Field Generator",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Magnetic_Field_Generator.png"
+  },
+  {
+    "id": "item_0131",
+    "name": "Nuke Nobelisk",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Nuke_Nobelisk.png"
+  },
+  {
+    "id": "item_0132",
+    "name": "Uranium Fuel Rod",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Uranium_Fuel_Rod.png"
+  },
+  {
+    "id": "item_0133",
+    "name": "Uranium Waste",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Uranium_Waste.png"
+  },
+  {
+    "id": "item_0134",
+    "name": "Packaged Nitrogen Gas",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packaged_Nitrogen_Gas.png"
+  },
+  {
+    "id": "item_0135",
+    "name": "Heat Sink",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Heat_Sink.png"
+  },
+  {
+    "id": "item_0136",
+    "name": "Cooling System",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Cooling_System.png"
+  },
+  {
+    "id": "item_0137",
+    "name": "Fused Modular Frame",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Fused_Modular_Frame.png"
+  },
+  {
+    "id": "item_0138",
+    "name": "Nitrogen Gas",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Nitrogen_Gas.png"
+  },
+  {
+    "id": "item_0139",
+    "name": "Turbo Motor",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Turbo_Motor.png"
+  },
+  {
+    "id": "item_0140",
+    "name": "Thermal Propulsion Rocket",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Thermal_Propulsion_Rocket.png"
+  },
+  {
+    "id": "item_0141",
+    "name": "Copper Powder",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Copper_Powder.png"
+  },
+  {
+    "id": "item_0142",
+    "name": "Packaged Nitric Acid",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packaged_Nitric_Acid.png"
+  },
+  {
+    "id": "item_0143",
+    "name": "Plutonium Fuel Rod",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Plutonium_Fuel_Rod.png"
+  },
+  {
+    "id": "item_0144",
+    "name": "Pressure Conversion Cube",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Pressure_Conversion_Cube.png"
+  },
+  {
+    "id": "item_0145",
+    "name": "Nuclear Pasta",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Nuclear_Pasta.png"
+  },
+  {
+    "id": "item_0146",
+    "name": "Dissolved Silica",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Dissolved_Silica.png"
+  },
+  {
+    "id": "item_0147",
+    "name": "Encased Plutonium Cell",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Encased_Plutonium_Cell.png"
+  },
+  {
+    "id": "item_0148",
+    "name": "Nitric Acid",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Nitric_Acid.png"
+  },
+  {
+    "id": "item_0149",
+    "name": "Non-Fissile Uranium",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Non_Fissile_Uranium.png"
+  },
+  {
+    "id": "item_0150",
+    "name": "Plutonium Pellet",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Plutonium_Pellet.png"
+  },
+  {
+    "id": "item_0151",
+    "name": "Plutonium Waste",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Plutonium_Waste.png"
+  },
+  {
+    "id": "item_0152",
+    "name": "Reanimated SAM",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Reanimated_SAM.png"
+  },
+  {
+    "id": "item_0153",
+    "name": "Diamonds",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Diamonds.png"
+  },
+  {
+    "id": "item_0154",
+    "name": "Time Crystal",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Time_Crystal.png"
+  },
+  {
+    "id": "item_0155",
+    "name": "Ficsite Trigon",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Ficsite_Trigon.png"
+  },
+  {
+    "id": "item_0156",
+    "name": "Ficsite Ingot",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Ficsite_Ingot.png"
+  },
+  {
+    "id": "item_0157",
+    "name": "SAM Fluctuator",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/SAM_Fluctuator.png"
+  },
+  {
+    "id": "item_0158",
+    "name": "Biochemical Sculptor",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Biochemical_Sculptor.png"
+  },
+  {
+    "id": "item_0159",
+    "name": "Alien Power Matrix",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Alien_Power_Matrix.png"
+  },
+  {
+    "id": "item_0160",
+    "name": "Dark Matter Crystal",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Dark_Matter_Crystal.png"
+  },
+  {
+    "id": "item_0161",
+    "name": "Superposition Oscillator",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Superposition_Oscillator.png"
+  },
+  {
+    "id": "item_0162",
+    "name": "Neural-Quantum Processor",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Neural_Quantum_Processor.png"
+  },
+  {
+    "id": "item_0163",
+    "name": "AI Expansion Server",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/AI_Expansion_Server.png"
+  },
+  {
+    "id": "item_0164",
+    "name": "Dark Matter Residue",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Dark_Matter_Residue.png"
+  },
+  {
+    "id": "item_0165",
+    "name": "Excited Photonic Matter",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Excited_Photonic_Matter.png"
+  },
+  {
+    "id": "item_0166",
+    "name": "Singularity Cell",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Singularity_Cell.png"
+  },
+  {
+    "id": "item_0167",
+    "name": "Ballistic Warp Drive",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Ballistic_Warp_Drive.png"
+  },
+  {
+    "id": "item_0168",
+    "name": "Ficsonium",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Ficsonium.png"
+  },
+  {
+    "id": "item_0169",
+    "name": "Ficsonium Fuel Rod",
+    "category": "Part",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Ficsonium_Fuel_Rod.png"
+  },
+  {
+    "id": "item_0170",
+    "name": "Smelter",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Smelter.png"
+  },
+  {
+    "id": "item_0171",
+    "name": "FICSMAS Gift Tree",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/FICSMAS_Gift_Tree.png"
+  },
+  {
+    "id": "item_0172",
+    "name": "Constructor",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Constructor.png"
+  },
+  {
+    "id": "item_0173",
+    "name": "Storage Container",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Storage_Container.png"
+  },
+  {
+    "id": "item_0174",
+    "name": "Miner Mk.1",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Miner_Mk1.png"
+  },
+  {
+    "id": "item_0175",
+    "name": "Space Elevator",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Space_Elevator.png"
+  },
+  {
+    "id": "item_0176",
+    "name": "Biomass Burner",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Biomass_Burner.png"
+  },
+  {
+    "id": "item_0177",
+    "name": "Assembler",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Assembler.png"
+  },
+  {
+    "id": "item_0178",
+    "name": "AWESOME Sink",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/AWESOME_Sink.png"
+  },
+  {
+    "id": "item_0179",
+    "name": "Fluid Buffer",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Fluid_Buffer.png"
+  },
+  {
+    "id": "item_0180",
+    "name": "Water Extractor",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Water_Extractor.png"
+  },
+  {
+    "id": "item_0181",
+    "name": "Coal-Powered Generator",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Coal_Powered_Generator.png"
+  },
+  {
+    "id": "item_0182",
+    "name": "Foundry",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Foundry.png"
+  },
+  {
+    "id": "item_0183",
+    "name": "Industrial Storage Container",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Industrial_Storage_Container.png"
+  },
+  {
+    "id": "item_0184",
+    "name": "Miner Mk.2",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Miner_Mk2.png"
+  },
+  {
+    "id": "item_0185",
+    "name": "Refinery",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Refinery.png"
+  },
+  {
+    "id": "item_0186",
+    "name": "Oil Extractor",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Oil_Extractor.png"
+  },
+  {
+    "id": "item_0187",
+    "name": "Packager",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Packager.png"
+  },
+  {
+    "id": "item_0188",
+    "name": "Industrial Fluid Buffer",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Industrial_Fluid_Buffer.png"
+  },
+  {
+    "id": "item_0189",
+    "name": "Fuel-Powered Generator",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Fuel_Powered_Generator.png"
+  },
+  {
+    "id": "item_0190",
+    "name": "Manufacturer",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Manufacturer.png"
+  },
+  {
+    "id": "item_0191",
+    "name": "Geothermal Generator",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Geothermal_Generator.png"
+  },
+  {
+    "id": "item_0192",
+    "name": "Blender",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Blender.png"
+  },
+  {
+    "id": "item_0193",
+    "name": "Nuclear Power Plant",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Nuclear_Power_Plant.png"
+  },
+  {
+    "id": "item_0194",
+    "name": "Resource Well Extractor",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Resource_Well_Extractor.png"
+  },
+  {
+    "id": "item_0195",
+    "name": "Resource Well Pressurizer",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Resource_Well_Pressurizer.png"
+  },
+  {
+    "id": "item_0196",
+    "name": "Miner Mk.3",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Miner_Mk3.png"
+  },
+  {
+    "id": "item_0197",
+    "name": "Particle Accelerator",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Particle_Accelerator.png"
+  },
+  {
+    "id": "item_0198",
+    "name": "Alien Power Augmenter",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Alien_Power_Augmenter.png"
+  },
+  {
+    "id": "item_0199",
+    "name": "Converter",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Converter.png"
+  },
+  {
+    "id": "item_0200",
+    "name": "Dimensional Depot Uploader",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Dimensional_Depot_Uploader.png"
+  },
+  {
+    "id": "item_0201",
+    "name": "Quantum Encoder",
+    "category": "Machine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Quantum_Encoder.png"
+  },
+  {
+    "id": "item_0202",
+    "name": "Miner",
+    "category": "MultiMachine",
+    "image": "https://raw.githubusercontent.com/widraw/SatisfactoryModelerData/refs/heads/main/icons/Miner.png"
+  }
+]
